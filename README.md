@@ -1,5 +1,11 @@
 # Task Manager API
 
+[![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Prisma](https://img.shields.io/badge/Prisma-7-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![SQLite](https://img.shields.io/badge/SQLite-3-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-2ea44f?style=flat-square)](LICENSE)
+
 A polished full-stack task manager built with Next.js, React, TypeScript, Prisma, SQLite, and secure cookie-based authentication. Users can register, sign in, manage tasks with deadlines and priorities, and the admin can review activity such as signups, logins, logouts, active sessions, and task changes.
 
 ## About
@@ -14,6 +20,10 @@ This project is useful if you want to study:
 - How to structure a small but realistic full-stack app
 
 The app is designed to be easy to read, easy to run locally, and easy to use as a reference when learning React, TypeScript, Prisma, and server-side application patterns.
+
+## Why I Built This
+
+I built this project to make a realistic full-stack app that is still small enough to understand line by line. It shows how a React frontend, TypeScript services, Prisma database access, and secure authentication fit together in one project, so it can be used as both a portfolio piece and a learning reference.
 
 ## Highlights
 
