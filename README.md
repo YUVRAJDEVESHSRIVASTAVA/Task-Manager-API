@@ -2,6 +2,19 @@
 
 A polished full-stack task manager built with Next.js, React, TypeScript, Prisma, SQLite, and secure cookie-based authentication. Users can register, sign in, manage tasks with deadlines and priorities, and the admin can review activity such as signups, logins, logouts, active sessions, and task changes.
 
+## About
+
+Task Manager API is a learning-friendly full-stack project built to show how a modern task management app works from end to end. It combines a Next.js frontend, TypeScript services, Prisma data access, and SQLite storage with secure authentication and admin visibility.
+
+This project is useful if you want to study:
+
+- How a React app talks to API routes
+- How TypeScript keeps the data flow safe and predictable
+- How login, sessions, and role checks work together
+- How to structure a small but realistic full-stack app
+
+The app is designed to be easy to read, easy to run locally, and easy to use as a reference when learning React, TypeScript, Prisma, and server-side application patterns.
+
 ## Highlights
 
 - User registration and login with hashed passwords
