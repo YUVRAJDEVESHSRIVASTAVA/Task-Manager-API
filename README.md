@@ -149,6 +149,16 @@ Example local admin:
 - [docs/reference-guide.md](docs/reference-guide.md) for the study reference
 - [docs/react-typescript-walkthrough.md](docs/react-typescript-walkthrough.md) for the file-by-file React and TypeScript walkthrough
 
+## Screenshots
+
+### Home page
+
+![Task Manager API home page](public/screenshots/home.png)
+
+### Auth page
+
+![Task Manager API auth page](public/screenshots/auth.png)
+
 ## Default Admin Account
 
 For local development, the project creates this admin account:
@@ -161,9 +171,8 @@ Change these values before using the project outside your own machine.
 ## Notes For GitHub
 
 - This repo is ready for a GitHub upload with a detailed README and a project-specific `.gitignore`.
-- If you add screenshots later, place them in the README under a `Screenshots` section.
-- If you want to publish the project publicly, add a license file first.
+- The README now includes a screenshots section and the repo includes an MIT license file.
 
 ## License
 
-No license file is included yet.
+This project is released under the MIT License. See [LICENSE](LICENSE) for the full text.
